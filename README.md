@@ -45,8 +45,6 @@ I also have an experience in building APIs and a good knowledge in Python Django
 In the end: I am all about the Web 🕸️
 
 ---
-<br />
-<br />
 
 <img align="left" alt="knightSarai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=knightSarai&hide=stars&show_icons=true&hide_border=true" />
 
