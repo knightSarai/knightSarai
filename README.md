@@ -29,8 +29,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+
+<br/>
+<br/>
+
 
 ## knight in words:
 If there’s anything that can sum it up, it’ll be that I build applications for fun 😄
@@ -43,6 +45,10 @@ I also have an experience in building APIs and a good knowledge in Python Django
 In the end: I am all about the Web 🕸️
 
 ---
+<br />
+<br />
+
+<img align="left" alt="knightSarai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=knightSarai&hide=stars&show_icons=true&hide_border=true" />
 
 [channelink]: https://www.youtube.com/channel/UCF3NLH7rn9b4KexT25tKTqA
 [instagram]: https://www.instagram.com/watchtheknight
