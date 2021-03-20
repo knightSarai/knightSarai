@@ -11,7 +11,7 @@
 [<img align="left" alt="watchTheKnight | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][channelink]
 [<img align="left" alt="knight | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="knight | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="knight | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][instagram]
 <br />
 
 ### Languages and Tools:
@@ -51,3 +51,4 @@ In the end: I am all about the Web 🕸️
 [channelink]: https://www.youtube.com/channel/UCF3NLH7rn9b4KexT25tKTqA
 [instagram]: https://www.instagram.com/watchtheknight
 [linkedin]: https://www.linkedin.com/in/knight-sarai/
+[twitter]: https://twitter.com/knightSarai2018
