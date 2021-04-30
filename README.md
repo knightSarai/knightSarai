@@ -2,7 +2,7 @@
 
 ## I'm a Boxer, Developer, and future content creator!!
 
-- 🥊 I'm a Jordan national team boxer, and Arab silver midalist 2016.
+- 🥊 I'm a Jordanian national team boxer, and Arab silver midalist 2016.
 - 🎥 I’m currently working on my [channel][channelink]
 - ⚡ Fun fact: I listen to prograssive ROCK 🎸, and I read a lot of books 📚
 
