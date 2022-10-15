@@ -20,7 +20,7 @@ If there’s anything that can sum it up, it’ll be that I build applications f
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightSarai&langs_count=6&theme=tokyonight&hide=html,css,Dockerfile,scss" alt="knightSarai :: Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightSarai&layout=compact&langs_count=6&theme=tokyonight&hide=html,css,Dockerfile,scss" alt="knightSarai :: Top Langs" />
  </p>
 
 
