@@ -1,7 +1,7 @@
 ### Hi there, 👋 I'm Abed Al-Rahman - aka knight  🏇
 [![Twitter Badge](https://img.shields.io/badge/-@knightSarai2018-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/knightSarai2018)](https://twitter.com/knightSarai2018) [![Linkedin Badge](https://img.shields.io/badge/-knightsarai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/knight-sarai/)](https://www.linkedin.com/in/knight-sarai/)
 
-If there’s anything that can sum it up, it’ll be that I build applications for fun 😄, as you can see this account is filled with application that no one is going to use 😎
+If there’s anything that can sum it up, it’ll be that I build applications for fun 😄, as you can see this account is filled with applications that no one is going to use 😎
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
